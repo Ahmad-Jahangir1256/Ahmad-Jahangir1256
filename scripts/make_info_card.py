@@ -43,25 +43,25 @@ ACCENT = "#22d3ee"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "subhxroy"   # shown as  subhxroy@github  in the header
+HOST = "Ahmad-Jahangir1256"   # shown as  Ahmad-Jahangir1256@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Full Stack Developer @ DIZIVER"),
-    ("kv", "Focus", "AI-powered SaaS & Modern Web Apps"),
-    ("kv", "Edu", "Assam, India"),
+    ("kv", "Now", "CS Student @ Bahria University"),
+    ("kv", "Focus", "Full-Stack Dev & Applied AI"),
+    ("kv", "Edu", "Islamabad, Pakistan"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript, Tailwind, Framer Motion"),
-    ("kv", "Backend", "Node.js, Express, Prisma, Firebase"),
-    ("kv", "Database", "MongoDB, SQLite, PostgreSQL"),
-    ("kv", "AI / ML", "Gemini API, OpenAI, SSE-streaming"),
-    ("kv", "Cloud", "Firebase, Vercel, Netlify"),
+    ("kv", "Frontend", "React, Vite, Tailwind CSS"),
+    ("kv", "Backend", "Laravel, Node.js, Flask, C++"),
+    ("kv", "Database", "PostgreSQL, MySQL, Supabase, Firebase"),
+    ("kv", "AI / ML", "pgvector, scikit-learn, PyTorch"),
+    ("kv", "Tools", "Git, Cisco Packet Tracer, Canva"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Nexus AI — Perplexity-style Search & Research SaaS"),
-    ("bul", "Anonym — Zero-Knowledge Encrypted Messaging"),
-    ("bul", "Openify — Desktop Music Player with Retro UI"),
+    ("bul", "CSXtreme — Full-Stack CS Society Platform"),
+    ("bul", "AegisMind — Privacy-First Agentic Database"),
+    ("bul", "Xorenn — E-commerce & IT Services Platform"),
 ]
 
 
