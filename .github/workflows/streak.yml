@@ -1,0 +1,37 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: Ahmad-Jahangir1256
+          theme: tokyonight
+          background: "0D1117"
+          fire: "7B68EE"
+          ring: "7B68EE"
+          currStreakLabel: "7B68EE"
+          sideLabels: "true"
+
+      - name: Commit Streak Stats SVG
+        run: |
+          mkdir -p output
+          cp github-readme-streak-stats/output.svg output/github-streak-stats.svg
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add output/github-streak-stats.svg
+          git commit -m "chore: update streak stats SVG [skip ci]" || echo "No changes"
+          git push

@@ -82,7 +82,7 @@ I love building projects that solve real-world problems, whether it's training a
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=Ahmad-Jahangir1256&theme=tokyonight&hide_border=true&background=0D1117&fire=7B68EE&ring=7B68EE&currStreakLabel=7B68EE" alt="Streak Stats" />
+<img src="https://raw.githubusercontent.com/Ahmad-Jahangir1256/Ahmad-Jahangir1256/main/output/github-streak-stats.svg" alt="Streak Stats" />
 
 </div>
 
