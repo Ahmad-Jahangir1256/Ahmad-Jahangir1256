@@ -13,7 +13,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.deno.dev?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%26+Data+Science+%F0%9F%A7%AE;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Projects+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%26+Data+Science+%F0%9F%A7%AE;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
@@ -56,7 +56,7 @@ I love building projects that solve real-world problems, whether it's training a
 <br/>
 
 <!-- ============================================================ -->
-<!-- 📊 GITHUB STATS CARDS                                        -->
+<!-- 📊 GITHUB STATS CARDS (FIXED: migrated to github-stats-extended) -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -64,10 +64,10 @@ I love building projects that solve real-world problems, whether it's training a
 ### 📊 GitHub Statistics
 
 <a href="https://github.com/Ahmad-Jahangir1256">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Jahangir1256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Ahmad-Jahangir1256&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=ffffff&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Ahmad-Jahangir1256">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Jahangir1256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=ffffff" alt="Top Languages" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ahmad-Jahangir1256&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=ffffff&langs_count=6" alt="Top Languages" />
 </a>
 
 </div>
@@ -82,7 +82,7 @@ I love building projects that solve real-world problems, whether it's training a
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=Ahmad-Jahangir1256&theme=tokyonight&hide_border=true&background=0D1117&fire=7B68EE&ring=7B68EE" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Ahmad-Jahangir1256&theme=tokyonight&hide_border=true&background=0D1117&fire=7B68EE&ring=7B68EE&currStreakLabel=7B68EE" alt="Streak Stats" />
 
 </div>
 
