@@ -13,7 +13,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.deno.dev/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%26+Data+Science+%F0%9F%A7%AE;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Projects+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%26+Data+Science+%F0%9F%A7%AE;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
