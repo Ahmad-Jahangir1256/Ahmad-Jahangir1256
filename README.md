@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!-- 🌟 Ahmad Jahangir - AI/ML & Data Science GitHub Profile       -->
+<!-- 🌟 Ahmad Jahangir - CS Student & Developer GitHub Profile     -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A7%AE;Data+Science+Enthusiast+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Building+Intelligent+Systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.deno.dev?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Learning+AI+%2F+ML+%26+Data+Science+%F0%9F%A7%AE;Python+%26+Full-Stack+Developer+%F0%9F%92%BB;Building+Projects+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ============================================================ -->
@@ -26,9 +26,11 @@
 
 ## 🧑‍💻 About Me
 
-**Ahmad Jahangir** — A passionate **Computer Science Student** based in Islamabad, Pakistan, with a deep focus on **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I build intelligent systems, autonomous agents, and data-driven solutions that solve real-world problems.
+Hi there! I'm **Ahmad Jahangir**, a passionate **Computer Science Student** based in Islamabad, Pakistan. I am currently learning **Artificial Intelligence**, **Machine Learning**, and **Data Science**, while also applying my experience in **Full-Stack Web Development**. 
 
-> *"Turning data into decisions, and algorithms into impact."*
+I love building projects that solve real-world problems, whether it's training autonomous trading agents, building web applications, or working with computer vision.
+
+> *"Constantly learning, constantly building."*
 
 </div>
 
@@ -45,11 +47,9 @@
 | Domain | Skills |
 |:---|:---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-188FFF?style=for-the-badge&logo=google&logoColor=white) |
+| **AI / ML & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
 | **LLMs & NLP** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| **Data & DB** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFC439?style=for-the-badge&logo=chromadb&logoColor=black) |
-| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Web & Cloud** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
@@ -116,13 +116,13 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---|
-| **[Self-Learning-Trader](https://github.com/Ahmad-Jahangir1256/Self-Learning-Trader)** | AI-powered autonomous trading system with LLM integration | Python, PyTorch, FastAPI, OpenAI, Scikit-learn | ✅ Active |
-| **[Air-Canvas](https://github.com/Ahmad-Jahangir1256/Air-Canvas)** | Computer Vision drawing application using hand tracking | Python, OpenCV, MediaPipe | ✅ Active |
-| **[Corp-Manager-DB](https://github.com/Ahmad-Jahangir1256/Corp-Manager-DB-Projecct)** | Full-stack database management system | Python, SQL, Data Modeling | ✅ Active |
-| **[Prompt-Optimizer](https://github.com/Ahmad-Jahangir1256/Prompt-Optimizer)** | AI prompt engineering and optimization tool | Python, LLM APIs | 🔄 In Progress |
-| **[Project-Trade](https://github.com/Ahmad-Jahangir1256/Project-Trade)** | Algorithmic trading research project | Python, Data Analysis | 🔄 In Progress |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **[Self-Learning-Trader](https://github.com/Ahmad-Jahangir1256/Self-Learning-Trader)** | AI-powered autonomous trading system integrating LLMs for market sentiment analysis and strategy execution. | Python, PyTorch, FastAPI, OpenAI |
+| **[Air-Canvas](https://github.com/Ahmad-Jahangir1256/Air-Canvas)** | A computer vision application that allows users to draw in mid-air using hand tracking. | Python, OpenCV, MediaPipe |
+| **[Corp-Manager-DB](https://github.com/Ahmad-Jahangir1256/Corp-Manager-DB-Projecct)** | A full-stack database management system designed for corporate resource allocation. | Python, SQL, Data Modeling |
+| **[xorenn](https://github.com/Ahmad-Jahangir1256/xorenn)** | A modern marketing site and client portal for a digital product studio. | JavaScript, React, Firebase |
+| **[Traffic_SIm](https://github.com/Ahmad-Jahangir1256/Traffic_SIm)** | A custom-built C++ traffic simulation to study navigation and routing algorithms. | C++, Graphics |
 
 </div>
 
@@ -158,39 +158,12 @@
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- 🏆 ACHIEVEMENTS & BADGES                                     -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-### 🏆 Open Source & Learning Badges
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Jahangir1256&theme=react-dark&hide_border=true&bg_color=0D1117&color=7B68EE&line=7B68EE&point=7B68EE&area=true" alt="Activity Graph" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- 📝 GITHUB WORKFLOW: SNAKE ANIMATION GENERATOR                -->
-<!-- ============================================================ -->
-
-<!-- This workflow file should also be placed in .github/workflows/snake.yml -->
-
-<br/>
-
 <div align="center">
 
 ---
 
 <p align="center">
   Made with ❤️ and lots of ☕ by <b>Ahmad Jahangir</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <em>Keep building. Keep learning. Keep shipping.</em>
 </p>
 
 </div>
