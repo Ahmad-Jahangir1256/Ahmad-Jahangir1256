@@ -1,5 +1,6 @@
+
 <!-- ============================================================ -->
-<!-- 🌟 Ahmad Jahangir - CS Student & Developer GitHub Profile     -->
+<!-- 🌟 Ahmad Jahangir's GitHub Profile                               -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -26,9 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi there! I'm **Ahmad Jahangir**, a passionate **Computer Science Student** based in Islamabad, Pakistan. I am currently learning **Artificial Intelligence**, **Machine Learning**, and **Data Science**, while also applying my experience in **Full-Stack Web Development**. 
-
-I love building projects that solve real-world problems, whether it's training autonomous trading agents, building web applications, or working with computer vision.
+Hi there! I'm **Ahmad Jahangir**, a passionate **Computer Science Student** based in G-11/4, Islamabad, Pakistan. Enthusiastic Eger to learn Computer Science Student love coding. I love building projects that solve real-world problems, whether it's training autonomous trading agents, building web applications, or working with computer vision.
 
 > *"Constantly learning, constantly building."*
 
@@ -56,7 +55,7 @@ I love building projects that solve real-world problems, whether it's training a
 <br/>
 
 <!-- ============================================================ -->
-<!-- 📊 GITHUB STATS CARDS (FIXED: migrated to github-stats-extended) -->
+<!-- 📊 GITHUB STATS CARDS                                         -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -110,19 +109,13 @@ I love building projects that solve real-world problems, whether it's training a
 
 ### 🚀 Featured Projects
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **[Self-Learning-Trader](https://github.com/Ahmad-Jahangir1256/Self-Learning-Trader)** | AI-powered autonomous trading system integrating LLMs for market sentiment analysis and strategy execution. | Python, PyTorch, FastAPI, OpenAI |
-| **[Air-Canvas](https://github.com/Ahmad-Jahangir1256/Air-Canvas)** | A computer vision application that allows users to draw in mid-air using hand tracking. | Python, OpenCV, MediaPipe |
-| **[Corp-Manager-DB](https://github.com/Ahmad-Jahangir1256/Corp-Manager-DB-Projecct)** | A full-stack database management system designed for corporate resource allocation. | Python, SQL, Data Modeling |
-| **[xorenn](https://github.com/Ahmad-Jahangir1256/xorenn)** | A modern marketing site and client portal for a digital product studio. | JavaScript, React, Firebase |
-| **[Traffic_SIm](https://github.com/Ahmad-Jahangir1256/Traffic_SIm)** | A custom-built C++ traffic simulation to study navigation and routing algorithms. | C++, Graphics |
+| Project | Description | Primary Language | Stars |
+|:---|:---|:---|:---|
+| **[Corp-Manager-DB-Projecct](https://github.com/Ahmad-Jahangir1256/Corp-Manager-DB-Projecct)** | Full-stack corporate resource management system with database design, CRUD operations, and data visualization | Python | 1 |
+| **[tarffic-simulator](https://github.com/Ahmad-Jahangir1256/tarffic-simulator)** | Advanced traffic control simulator with signal optimization, lane management, and performance benchmarking | C++ | 0 |
+| **[realtime-anomaly-detection-stream](https://github.com/Ahmad-Jahangir1256/realtime-anomaly-detection-stream)** | Real-time anomaly detection pipeline with streaming data, Isolation Forest, and interactive monitoring dashboard | Python | 0 |
+| **[hybrid-recommendation-system](https://github.com/Ahmad-Jahangir1256/hybrid-recommendation-system)** | Hybrid recommendation engine combining collaborative filtering, content-based methods, and cold-start routing | Python | 0 |
+| **[edge-object-detection](https://github.com/Ahmad-Jahangir1256/edge-object-detection)** | Edge-optimized object detection with YOLOv8/v10, ONNX Runtime, PyTorch, and FPS benchmarking | Python | 0 |
 
 </div>
 
@@ -136,8 +129,8 @@ I love building projects that solve real-world problems, whether it's training a
 
 ### 📫 Get In Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ahmad--Jahangir1256-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Jahangir1256)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jahangir1256)
+[![GitHub](https://img.shields.io/badge/GitHub-Ahmad-Jahangir1256-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmad-Jahangir1256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmad-Jahangir1256) <!-- Placeholder, replace with actual LinkedIn if available -->
 [![Email](https://img.shields.io/badge/Email-ahmad.jahangir.1256@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.jahangir.1256@gmail.com)
 
 </div>
